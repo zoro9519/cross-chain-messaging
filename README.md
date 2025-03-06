@@ -240,4 +240,3 @@ For detailed documentation, please visit [documentation](./docs).
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-@virjilakrum
