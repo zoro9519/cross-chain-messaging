@@ -1,5 +1,5 @@
 # zkl-eswm-ES6
-ZKL Cross-chain messaging library between Ethereum and Solana using Wormhole protocol. `Let's use readme instead of docs`
+ZKL Cross-chain messaging library between Ethereum and Solana using Wormhole protocol. `Let's use readme instead of docs`  `got it`
 
 ## Overview
 The ZKL Ethereum-Solana Wormhole Messaging module represents a crucial component of the ZKL ecosystem, facilitating secure and efficient cross-chain communication between Ethereum and Solana blockchains. This implementation leverages modern ES6+ standards to provide a robust, maintainable, and highly interoperable solution for cross-chain messaging needs. By utilizing the Wormhole protocol as its foundation, this module ensures reliable message delivery while maintaining the security guarantees essential for cross-chain operations.
